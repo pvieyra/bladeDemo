@@ -8,9 +8,8 @@
   <!--<link rel="shortcut icon" href="../images/favicon.png" type="image/png">-->
   <meta name="csrf-token" content="{{ csrf_token() }}">
   <title>Quirk Responsive Admin Templates</title>
-
+  <!-- webpack-->
   <link rel="stylesheet" href="css/plantilla.css">
-
 
   <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!--[if lt IE 9]>
@@ -1061,10 +1060,8 @@
   </div><!-- mainpanel -->
 
 </section>
-
+  <!-- webpack-->
 <script src="js/app.js"></script>
 <script src="js/plantilla.js"></script>
-
-
 </body>
 </html>
